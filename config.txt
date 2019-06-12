@@ -1,6 +1,6 @@
 owner=531532447968657458
-prefix=длс
+prefix=!play
 game=Ready?
 stayinchannel=true
-songinstatus=false
-token=NTg4MzM3NjIwMjg4MDEyMjk5.XQDrXQ.SJW4DFdwnAE1KMB0zp_WGurvWKc
+songinstatus=true
+token=NTg4MzM3NjIwMjg4MDEyMjk5.XQDxVA.Ibl6J7uaIw53E_mka2eXbmxSL2Q
