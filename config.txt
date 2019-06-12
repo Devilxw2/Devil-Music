@@ -1,0 +1,6 @@
+owner=531532447968657458
+prefix=длс
+game=Ready?
+stayinchannel=true
+songinstatus=false
+token=NTg4MzM3NjIwMjg4MDEyMjk5.XQDrXQ.SJW4DFdwnAE1KMB0zp_WGurvWKc
