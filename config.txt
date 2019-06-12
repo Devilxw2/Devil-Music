@@ -1,6 +1,6 @@
 owner=531532447968657458
 prefix=!play
 game=Ready?
-stayinchannel=true
+stayinchannel=false
 songinstatus=true
 token=NTg4MzM3NjIwMjg4MDEyMjk5.XQDxVA.Ibl6J7uaIw53E_mka2eXbmxSL2Q
